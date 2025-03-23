@@ -50,13 +50,6 @@ The project consists of three main components:
 ## 🔧 Schematic
 ![Schematic](./assets/schematic.jpg)
 
-## 🎥 Interface Preview
-<video width="640" height="360" controls>
-  <source src="https://github.com/HanMade-Dev/Sistem-Pendeteksi-Suhu-dan-Kualitas-Udara/raw/main/Preview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-![Preview](./assets/preview.mp4)
-
 ## 🤝 Contribution
 Feel free to submit issues or pull requests if you want to improve this project.
 
