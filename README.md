@@ -28,7 +28,7 @@ The project consists of three main components:
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/HanMade-Dev/Sistem-Pendeteksi-Suhu-dan-Kualitas-Udara.git
    ```
 2. Navigate to the project directory and install required dependencies:
    ```bash
@@ -44,8 +44,11 @@ The project consists of three main components:
 2. Ensure the Arduino is connected to the correct COM port.
 3. View real-time temperature and air quality data on the GUI.
 
-## ⚙️ 🔧 Schematic
-![Schematic](./assets/schematic.png)
+## ⚙️ Diagram
+![Schematic](./assets/diagram.jpg)
+
+## 🔧 Schematic
+![Schematic](./assets/schematic.jpg)
 
 ## 🎥 Interface Preview
 ![Preview](./assets/preview.mp4)
